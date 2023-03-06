@@ -1,0 +1,11 @@
+black
+pylint
+asyncio
+aiohttp
+beautifulsoup4
+pandas
+matplotlib
+lxml
+parse
+python-binance
+pyupbit
